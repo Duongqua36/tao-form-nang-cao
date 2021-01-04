@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b82cec2-8d9c-46c2-aa0f-b0541790b944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/.idea/baitap-ham.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/demo-hcn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/su-dung-ham1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-ham/xay-dung-thu-vien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap-mang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/CarController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/RandomCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/VehicleHit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/game-board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/game/road.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thi-li-thuyet2/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thi-li-thuyet2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thi-li-thuyet2/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thi-li-thuyet2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien-toantu/chuyen-doi-tien-te.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien-toantu/chuyen-doi-tien-te.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien-toantu/khai-bao-bien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien-toantu/ung-dung-may-tinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if-else/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/audio/demoHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tao-form-nang-cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/form/tao-form-nang-cao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taoform-don-gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/form/taoform-don-gian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-tet/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-tet/cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmind/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -50,7 +41,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../case study/case study/game.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai-tap-tet/cv.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +53,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\C1220I1\audio" />
+      <recent name="C:\Users\Admin\WebstormProjects\C1220I1\form" />
+      <recent name="C:\Users\Admin\WebstormProjects\C1220I1\bien-toantu" />
       <recent name="C:\Users\Admin\WebstormProjects\C1220I1\demo" />
     </key>
   </component>
@@ -81,6 +75,34 @@
       <workItem from="1608252998280" duration="601000" />
       <workItem from="1608261694745" duration="3214000" />
       <workItem from="1608265302100" duration="1318000" />
+      <workItem from="1608267149361" duration="496000" />
+      <workItem from="1608277492171" duration="122000" />
+      <workItem from="1608461994981" duration="1144000" />
+      <workItem from="1608514426630" duration="771000" />
+      <workItem from="1608519717689" duration="926000" />
+      <workItem from="1608522447532" duration="598000" />
+      <workItem from="1608524289373" duration="596000" />
+      <workItem from="1608539483349" duration="1149000" />
+      <workItem from="1608542649950" duration="475000" />
+      <workItem from="1608559626370" duration="685000" />
+      <workItem from="1608598590329" duration="2092000" />
+      <workItem from="1608600776576" duration="2301000" />
+      <workItem from="1608603685745" duration="2288000" />
+      <workItem from="1608606261953" duration="761000" />
+      <workItem from="1608607162607" duration="1548000" />
+      <workItem from="1608625938234" duration="682000" />
+      <workItem from="1608626877614" duration="3996000" />
+      <workItem from="1608637960060" duration="5777000" />
+      <workItem from="1608686957522" duration="6808000" />
+      <workItem from="1608708095441" duration="2552000" />
+      <workItem from="1608772622451" duration="4338000" />
+      <workItem from="1608798580610" duration="1380000" />
+      <workItem from="1608859878712" duration="668000" />
+      <workItem from="1609043165539" duration="1509000" />
+      <workItem from="1609079107994" duration="599000" />
+      <workItem from="1609330233110" duration="61000" />
+      <workItem from="1609379504145" duration="33000" />
+      <workItem from="1609724737736" duration="718000" />
     </task>
     <servers />
   </component>
@@ -88,9 +110,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1608265527109">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1609330291200">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608265527109" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609330291200" />
+    <state x="300" y="153" key="run.anything.popup" timestamp="1608627636040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="300" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1608627636040" />
   </component>
 </project>
