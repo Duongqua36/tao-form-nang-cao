@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b82cec2-8d9c-46c2-aa0f-b0541790b944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bien-toantu/chuyen-doi-tien-te.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bien-toantu/chuyen-doi-tien-te.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bien-toantu/khai-bao-bien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bien-toantu/ung-dung-may-tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-else/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huong-doi-tuong/human.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huong-doi-tuong/human.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai-tap-mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vong-lap/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vong-lap/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/demo-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-quan-li/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/CannonBall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/obstacle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/js/tank.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/audio/demoHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tao-form-nang-cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/form/tao-form-nang-cao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taoform-don-gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/form/taoform-don-gian.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai-tap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai-tap-tet/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-tet/cv.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xmind/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,13 +29,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lmGn8WKaSjEtdGNyyVyb7Ktog2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai-tap-tet/cv.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,10 +55,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\C1220I1\vong-lap" />
       <recent name="C:\Users\Admin\WebstormProjects\C1220I1\audio" />
       <recent name="C:\Users\Admin\WebstormProjects\C1220I1\form" />
       <recent name="C:\Users\Admin\WebstormProjects\C1220I1\bien-toantu" />
@@ -102,7 +110,27 @@
       <workItem from="1609079107994" duration="599000" />
       <workItem from="1609330233110" duration="61000" />
       <workItem from="1609379504145" duration="33000" />
-      <workItem from="1609724737736" duration="718000" />
+      <workItem from="1609724737736" duration="958000" />
+      <workItem from="1609855396645" duration="1773000" />
+      <workItem from="1609895473484" duration="2066000" />
+      <workItem from="1609900441005" duration="609000" />
+      <workItem from="1609903149890" duration="1735000" />
+      <workItem from="1609920401234" duration="598000" />
+      <workItem from="1609940113764" duration="2675000" />
+      <workItem from="1609946368712" duration="357000" />
+      <workItem from="1609981564824" duration="4315000" />
+      <workItem from="1610011476268" duration="991000" />
+      <workItem from="1610023404806" duration="3066000" />
+      <workItem from="1610068192410" duration="1280000" />
+      <workItem from="1610163907754" duration="601000" />
+      <workItem from="1610252255056" duration="609000" />
+      <workItem from="1610283548437" duration="1281000" />
+      <workItem from="1610327282333" duration="1194000" />
+      <workItem from="1610355663189" duration="597000" />
+      <workItem from="1610371781697" duration="1466000" />
+      <workItem from="1610413091260" duration="1226000" />
+      <workItem from="1610633590889" duration="3158000" />
+      <workItem from="1610671994296" duration="602000" />
     </task>
     <servers />
   </component>
@@ -110,10 +138,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1609330291200">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1610415474247">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609330291200" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610415474247" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609941629207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609941629207" />
     <state x="300" y="153" key="run.anything.popup" timestamp="1608627636040">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
